@@ -1,0 +1,21 @@
+{
+  "name": "dolby",
+  "description": "It's really so good I'm really glad to have it ",
+  "scripts": {
+  },
+  "env": {
+    "undefined": {
+      "generator": "secret"
+    }
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/ruby"
+    }
+  ]
+}
